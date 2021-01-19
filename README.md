@@ -3,7 +3,7 @@
 
 ![landing_page](docs/images/landing_page.png)
 
-* **Hospify** is a desktop application for a digital medical record management solution to help clinics digitalise their medical records. While it has a GUI, most of the user interactions happen using a CLI (Command Line Interface).
+* **Hospify** is a desktop application for a digital medical record management solution to help clinics digitise their medical records. While it has a GUI, most of the user interactions happen using a CLI (Command Line Interface).
     * It allows users to add, edit, find, delete and sort patients’ medical records and even edit appointment details.
     * **Problem Statement**
         * Many small clinics still use hard copies to store patients' medical records. The database can get really large after many years.
